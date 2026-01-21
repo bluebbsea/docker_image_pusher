@@ -4,3 +4,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+mongo:4.4
+redis:7-alpine
+nginx:alpine
+hsliup/tradingagents-backend:latest
+hsliup/tradingagents-frontend:latest
