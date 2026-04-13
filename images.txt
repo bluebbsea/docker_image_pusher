@@ -11,4 +11,8 @@ hsliup/tradingagents-backend:latest
 hsliup/tradingagents-frontend:latest
 # 追加以下两行 for Dify
 langgenius/dify-api:latest
-langgenius/dify-web:latest
+langgenius/dify-web:latest|
+  searxng/searxng:latest
+  jinaai/jina:latest
+  traefik:v2.10
+  redis:7-alpine
