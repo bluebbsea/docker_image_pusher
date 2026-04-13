@@ -1,4 +1,4 @@
 searxng/searxng:latest
 jinaai/jina:latest
 traefik:v2.10
-redis:7-alpine
+redis:7-alpine3.20
